@@ -8,3 +8,4 @@ QR_IMAGE_PATH = "qr.jpg"
 
 FREE_LIMIT = 2
 PREMIUM_PRICE = 100
+MONGO_URL = "mongodb+srv://tigerrajput281:tigerrajput@cluster0.swqvjh7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
